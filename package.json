@@ -1,0 +1,24 @@
+{
+  "name": "entry_automation",
+  "version": "1.0.0",
+  "description": "",
+  "username": "VBS1935",
+  "password": "Password1",
+  "startDate": "2019-11-13",
+  "endDate": "2019-11-13",
+  "dateFormate": "YYYY-MM-DD",
+  "hours": "8.5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^78.0.1",
+    "moment": "^2.24.0",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
+}
